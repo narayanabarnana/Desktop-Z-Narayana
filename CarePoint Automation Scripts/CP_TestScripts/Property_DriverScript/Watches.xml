@@ -1,0 +1,3 @@
+﻿<Properties>
+  <WatchEntry0 value="Browser(&quot;name:=ACT II.*&quot;).Page(&quot;title:=ACT II&quot;).Frame(&quot;name:=topFrame&quot;,&quot;html tag:=FRAME&quot;).WebElement(&quot;html id:=ezaMenu_logoff&quot;).exist" />
+</Properties>

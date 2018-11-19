@@ -1,0 +1,5 @@
+﻿<Properties>
+  <WatchEntry0 value="DataTable(&quot;CS_Customer_Name&quot;,&quot;GL-Data&quot;)" />
+  <WatchEntry1 value="DataTable(&quot;CS_Accident_Date&quot;,&quot;GL-Data&quot;)" />
+  <WatchEntry2 value="DataTable(&quot;CS_SiteCode&quot;,&quot;GL-Data&quot;)" />
+</Properties>
